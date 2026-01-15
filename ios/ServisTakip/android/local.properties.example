@@ -1,0 +1,5 @@
+# Example local.properties entries (do NOT commit actual keys)
+# Copy this to android/local.properties and set your real key there.
+
+# Maps API key used by Android manifest placeholder
+MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY_HERE

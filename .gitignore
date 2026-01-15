@@ -1,0 +1,28 @@
+# Flutter/Dart
+**/ios/Flutter/flutter_export_environment.sh
+**/android/.gradle/
+
+# Local API config (her geliştirici kendi IP'sini yazar)
+ios/ServisTakip/lib/config/api_config.dart
+
+# Secrets / credentials
+api/service-account.json
+**/service-account.json
+**/*service-account*.json
+**/*.pfx
+**/*.p12
+**/*.pem
+**/*.key
+
+# Build artifacts
+**/bin/
+**/obj/
+**/.vs/
+**/packages/
+
+# IDE/editor
+**/.vscode/
+**/*.csproj.user
+
+# Local docs
+*.pdf
